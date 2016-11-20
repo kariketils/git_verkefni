@@ -20,3 +20,4 @@ git diff commit1 comit2 = sýnir tvö skjöl og muninn á milli þeirra.
 6. commit geymir bara current versionið ásamt log skilaboðum frá notanda þannig á meðan maður getur haldið track á því þá ætti það ekki að skipta máli hversu oft það er.
 7. working directory , staging area og repository eru þrjú efstu sæti í projecti. working directory er einn stöð af einni útgáfu af verkefninu.
 staging area er skjal sem oftast er í git directory og hún geimir upplýsingar um hvað kemst inn í næsta commit.
+8. þegar þú þarft að gera project upp frá grunni en svo getur maður alltaf bara hoppað til baka ef hlutir virka ekki eins og þeri eiga að gera.
