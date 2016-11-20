@@ -16,3 +16,4 @@ git diff = sýnir breytingu á milli vinnandi trjáa og vístölu.
 git diff --staged= er í rauninni bara stitting á --cached sem breytir næstu færslu hlutfallselga við nafnið og af því þetta er cached þýðir það að það sé vefsíða eða app.
 git diff commit1 comit2 = sýnir tvö skjöl og muninn á milli þeirra.
 4. version control er kerfi sem fylgist með breytum á skölum sett af skrám yfir tíma þannig að þú getur svo þú getur recallað nokkrum versionum seinna.
+5. Git er stjórnunarkerfi (VCS) sem er notað til hugbúnaður þróun [7] og önnur verkefni útgáfu og stjórna. 
