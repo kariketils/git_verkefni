@@ -17,3 +17,4 @@ git diff --staged= er í rauninni bara stitting á --cached sem breytir næstu færs
 git diff commit1 comit2 = sýnir tvö skjöl og muninn á milli þeirra.
 4. version control er kerfi sem fylgist með breytum á skölum sett af skrám yfir tíma þannig að þú getur svo þú getur recallað nokkrum versionum seinna.
 5. Git er stjórnunarkerfi (VCS) sem er notað til hugbúnaður þróun [7] og önnur verkefni útgáfu og stjórna. 
+6. commit geymir bara current versionið ásamt log skilaboðum frá notanda þannig á meðan maður getur haldið track á því þá ætti það ekki að skipta máli hversu oft það er.
