@@ -1,2 +1,7 @@
 Git svör.
-Kári Ketilsson
+1.
+cd = cd skipunin er notu til þess að breyta núverandi skrá.
+cd ~ = þetta merkir bara heimasvæðið.
+ls = Listi upplýsingar um valda möppu.
+pwd = sýnir allt nafn valdar leiðar dæmi "H:\git_verkefni".
+mkdir = ef leið tilgreindrar skráar er ekki til mun mkdir búa hana til.
