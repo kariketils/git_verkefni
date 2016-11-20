@@ -5,3 +5,9 @@ cd ~ = þetta merkir bara heimasvæðið.
 ls = Listi upplýsingar um valda möppu.
 pwd = sýnir allt nafn valdar leiðar dæmi "H:\git_verkefni".
 mkdir = ef leið tilgreindrar skráar er ekki til mun mkdir búa hana til.
+2.
+git clone = klónar geymslu í nýja skrá.
+git log = skipunin tekur valkosti sem gilda um git Rev-lista stjórn til að stjórna hvað birtist og hvernig.
+git status = Sýnir leiðir sem hafa mismunandi milli vístiölu skrá og núverandi yfirmaður fremja, slóðir sem hafa muninn vinnaandi tré og upphafsíðu skrá, og keupur æu vubby træe sem eru ekki fylgst með.
+git diff = sýnir breyting á milli vinnandi tré og vístölu.
+git checkout = upfærir skjöl í virkum trjám til að þær matchi við rétt verson í indexnum.
