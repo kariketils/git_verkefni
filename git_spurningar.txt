@@ -16,3 +16,4 @@ git spurningar
 	b) git diff --staged 
 	c) git diff commit1 commit2
 4. 	Hvað er útgáfustýring (e.version control)? 
+5.	Hverjir eru helstu kostir við að nota GIT?
