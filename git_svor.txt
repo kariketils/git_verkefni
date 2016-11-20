@@ -1,0 +1,27 @@
+1.
+cd = cd skipunin er notu til þess að breyta núverandi skrá.
+cd ~ = þetta merkir bara heimasvæðið.
+ls = Listi upplýsingar um valda möppu.
+pwd = sýnir allt nafn valdar leiðar dæmi "H:\git_verkefni".
+mkdir = ef leið tilgreindrar skráar er ekki til mun mkdir búa hana til.
+2.
+git clone = klónar geymslu í nýja skrá.
+git log = skipunin tekur valkosti sem gilda um git Rev-lista stjórn til að stjórna hvað birtist og hvernig.
+git status = Sýnir leiðir sem hafa mismunandi milli vístiölu skrá og núverandi yfirmaður fremja, slóðir sem hafa muninn vinnaandi tré og upphafsíðu skrá, og keupur æu vubby træe sem eru ekki fylgst með.
+git diff = sýnir breyting á milli vinnandi tré og vístölu.
+git checkout = upfærir skjöl í virkum trjám til að þær matchi við rétt verson í indexnum.
+3.
+git diff = sýnir breytingu á milli vinnandi trjáa og vístölu.
+git diff --staged= er í rauninni bara stitting á --cached sem breytir næstu færslu hlutfallselga við nafnið og af því þetta er cached þýðir það að það sé vefsíða eða app.
+git diff commit1 comit2 = sýnir tvö skjöl og muninn á milli þeirra.
+
+4. version control er kerfi sem fylgist með breytum á skölum sett af skrám yfir tíma þannig að þú getur svo þú getur recallað nokkrum versionum seinna.
+
+5. Git er stjórnunarkerfi (VCS) sem er notað til hugbúnaður þróun [7] og önnur verkefni útgáfu og stjórna. 
+
+6. commit geymir bara current versionið ásamt log skilaboðum frá notanda þannig á meðan maður getur haldið track á því þá ætti það ekki að skipta máli hversu oft það er.
+
+7. working directory , staging area og repository eru þrjú efstu sæti í projecti. working directory er einn stöð af einni útgáfu af verkefninu.
+staging area er skjal sem oftast er í git directory og hún geimir upplýsingar um hvað kemst inn í næsta commit.
+
+8. þegar þú þarft að gera project upp frá grunni en svo getur maður alltaf bara hoppað til baka ef hlutir virka ekki eins og þeri eiga að gera.

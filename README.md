@@ -1,2 +1,3 @@
-#Fyrsta git verkefniðg
+#Fyrsta git verkefnið
 # git_verkefni
+
