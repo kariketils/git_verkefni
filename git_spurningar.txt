@@ -17,3 +17,4 @@ git spurningar
 	c) git diff commit1 commit2
 4. 	Hvað er útgáfustýring (e.version control)? 
 5.	Hverjir eru helstu kostir við að nota GIT?
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
